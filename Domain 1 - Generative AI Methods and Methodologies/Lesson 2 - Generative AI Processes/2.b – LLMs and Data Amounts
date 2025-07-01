@@ -1,0 +1,47 @@
+# Lesson 2.b – LLMs and Data Amounts
+
+### 🎯 Lesson Objective
+Understand the scale and data requirements of large language models (LLMs), and how the size of an LLM affects its capabilities and use cases.
+
+---
+
+## 🧠 What Are LLMs?
+
+- **LLM** stands for **Large Language Model**.
+- Most generative AI is powered by LLMs.
+- These models are trained using extremely large datasets—**billions** of data pieces.
+
+---
+
+## 📊 Why So Much Data?
+
+- An LLM needs a **massive amount of training data** to generate meaningful and accurate outputs.
+- Training teaches the model how to predict responses based on a wide variety of inputs and language patterns.
+  
+> “LLMs need a large amount of training data to perform effectively. By large, we mean possibly billions of pieces of data.”
+
+---
+
+## 📌 Real-World Example: Google Gemini
+
+- Google Gemini shows a range of **sample prompts** on its homepage.
+- In order for the model to respond to those prompts reliably, it must be trained on a **diverse and extensive dataset**.
+
+---
+
+## 🧩 LLM Size Varies by Use Case
+
+| **LLM Type**                   | **Purpose**                                 | **Size**                     |
+|-------------------------------|---------------------------------------------|------------------------------|
+| Public models (e.g., ChatGPT, Gemini) | Handle general queries from a wide audience | Extremely large datasets     |
+| Internal company LLMs         | Used for specific tasks in closed environments | Smaller, targeted datasets   |
+
+> “The takeaway is that for a chatbot-based app inside a company, the LLM can be smaller and work. However, for something like Google Gemini or ChatGPT, a massive amount of data is needed…”
+
+---
+
+## 💡 Key Insight
+
+The size and scope of an LLM should match its intended purpose:
+- For **broad public use**, models must be large and data-rich.
+- For **internal apps**, smaller models can be just as effective when trained on domain-specific data.
