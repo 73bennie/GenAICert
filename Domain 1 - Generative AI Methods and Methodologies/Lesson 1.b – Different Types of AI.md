@@ -1,0 +1,28 @@
+# Domain 1: Generative AI Methods and Methodologies  
+## Lesson 1.b – Different Types of AI
+
+### 🎯 Lesson Objective
+Understand what generative AI is by comparing it to other categories of artificial intelligence used for different tasks and data outputs.
+
+---
+
+## 🤖 Generative AI
+- Creates **new content** based on input prompts.
+- Example: Text generation based on natural language instructions.
+
+---
+
+## 🧠 Types of AI and How They Differ
+
+| **Type of AI**        | **Purpose**                                              | **Example**                                                                 |
+|-----------------------|----------------------------------------------------------|------------------------------------------------------------------------------|
+| **Generative AI**     | Creates new content from prompts                         | Writing a paragraph about smart refrigerators                               |
+| **Predictive AI**     | Forecasts future outcomes using trends                   | Projected smart home gadget sales                                           |
+| **Discriminative AI** | Classifies data into categories                          | Likelihood to adopt smart tech by age and device usage                      |
+| **Analytical AI**     | Extracts insights from existing data                     | Repair likelihood for smart door locks based on usage                       |
+| **Statistical AI**    | Uses statistical analysis for insights                   | Energy savings between smart and non-smart homes                            |
+
+---
+
+## 📌 Key Insight
+While various AI types produce outputs, only **generative AI** produces *original, human-like content* directly from prompts—making it uniquely suited for creation tasks rather than analysis or forecasting.
